@@ -15,14 +15,15 @@ const RESOURCES = {
 "manifest.json": "f4bc73607b143fbe5b880bb5b9732ad9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"index.html": "64f0610363291939591e119672f1f8ef",
-"/": "64f0610363291939591e119672f1f8ef",
-"main.dart.js": "f5aa40713036fb3b1b5c4a0a25373205",
+"index.html": "51b23d4961f258b339dc027e09584cd0",
+"/": "51b23d4961f258b339dc027e09584cd0",
+"main.dart.js": "6e00d6f7aef85681ce8c579f21c9498e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/assets/images/ads.jpeg": "e29af3b7e7f8d864c2ffd48cbdb48daf",
 "assets/NOTICES": "5ad930bb6ca6582db14c61f877f180cf",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9"
+"assets/AssetManifest.json": "61afb3f5413e72c5c5bb17c0d9f6bb7e"
 };
 
 // The application shell files that are downloaded before a service worker can
