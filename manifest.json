@@ -1,6 +1,6 @@
 {
-    "name": "adspace",
-    "short_name": "adspace",
+    "name": "bookmyadd",
+    "short_name": "bookmyadd",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
